@@ -3,6 +3,7 @@ This repository is created to build a boilerplate for webpack.
 ## Built With
 
 - HTML
+- CSS
 - JavaScript
 
 ## Getting Started
